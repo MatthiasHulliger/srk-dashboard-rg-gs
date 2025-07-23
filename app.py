@@ -261,7 +261,7 @@ def display_header():
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
         try:
-            st.image("P:/Logo.jpg", width=333)
+            st.image("https://i.ibb.co/twVx8gyf/SRK-Logo-HQ-Crop.jpg", width=333)
         except:
             pass  # Logo not found
 
