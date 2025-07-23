@@ -21,7 +21,7 @@ st.set_page_config(
 
 # Fixed parameters for MVP
 DISCOUNT_RATE = 0.03  # 3% annual discount rate
-N_SIMULATIONS = 750  # Increased from 500 for better accuracy
+N_SIMULATIONS = 5  # Increased from 500 for better accuracy
 
 # Empirical parameters for GS (National)
 EMPIRICAL_DONORS_MEAN = 3.5
